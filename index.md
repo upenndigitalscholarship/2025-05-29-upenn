@@ -4,19 +4,19 @@ layout: workshop      # DON'T CHANGE THIS.
 # online workshop) are available at
 # https://carpentries.github.io/workshop-template/customization/index.html
 venue: "University of Pennsylvania"
-address: "Research Data and Digital Scholarship Exchange, Van Pelt-Dietrich Library Center"
+address: "3401 Walnut A Wing, 401B"
 country: "us"
 language: "en"
 latitude: "39.9527"
 longitude: "-75.1934"
-humandate: "March 13-14, 2025"
+humandate: "May 29-30, 2025"
 humantime: "10:00 am - 4:00 pm ET"
-startdate: 2025-03-13
-enddate: 2025-03-14
-instructor: ["Ashay Katre", "Xinyu Xie"]
-helper: ["Eug Xu", "Matt Hunter", "Lynda Kellam"]
+startdate: 2025-05-29
+enddate: 2025-05-30
+instructor: ["Ashay Katre", "Xinyu Xie", "Ruben Ramirez Salas", "Hao Ye"]
+helper: ["Matt Hunter", "Lauren Phegley", "Lynda Kellam"]
 email: ["libraryrdds@pobox.upenn.edu"]
-collaborative_notes: https://pad.carpentries.org/2025-03-13-upenn
+collaborative_notes: https://pad.carpentries.org/2025-05-29-upenn
 ---
 
 {% comment %}
