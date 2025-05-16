@@ -188,8 +188,8 @@ Display the contact email address set in the configuration file.
   <strong>Hosts:</strong>
   <ul>
     <li>Jaj Karajgikar (Research Data and Digital Scholarship)</li>
-    <li>Lynda Kellam (Research Data and Digital Scholarship)</li>
-    <li>JoEllen McBride (Penn Grad Center)</li>
+    <li>Ann Elizabeth Vernon-Grey, Kerry F Milch (Center for Undergraduate Research & Fellowship)</li>
+    <li>Contact: Please Email Dr. Vernon-Grey with questions.</li>
   </ul>
  </p>
 
